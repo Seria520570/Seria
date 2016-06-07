@@ -1,0 +1,25 @@
+{
+  "name": "Seria",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "1470105377": {
+      "required": true
+    },
+    "1a20903c27514ade9b64e84db9b0ca20": {
+      "required": true
+    },
+    "u6995650f516055513ffec44bfc66d023": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
